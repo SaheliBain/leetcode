@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SaheliBain/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SaheliBain/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaheliBain/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SaheliBain/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SaheliBain/leetcode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/SaheliBain/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaheliBain/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/SaheliBain/leetcode/tree/master/0645-set-mismatch) |
