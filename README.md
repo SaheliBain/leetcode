@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SaheliBain/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/SaheliBain/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaheliBain/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
@@ -92,10 +93,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/SaheliBain/leetcode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/SaheliBain/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SaheliBain/leetcode/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/SaheliBain/leetcode/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SaheliBain/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
