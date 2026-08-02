@@ -6,7 +6,6 @@ class Solution:
             d=n % 10
             r=r*10+d
             n//=10
-        if r== x:
-            return True
-        else:
-            return False
+       
+        return r==x
+        
