@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SaheliBain/leetcode/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/SaheliBain/leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/SaheliBain/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaheliBain/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SaheliBain/leetcode/tree/master/0268-missing-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SaheliBain/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SaheliBain/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/SaheliBain/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaheliBain/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SaheliBain/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SaheliBain/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SaheliBain/leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/SaheliBain/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/SaheliBain/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaheliBain/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/SaheliBain/leetcode/tree/master/0645-set-mismatch) |
@@ -116,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaheliBain/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SaheliBain/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SaheliBain/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
