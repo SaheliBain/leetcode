@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SaheliBain/leetcode/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaheliBain/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SaheliBain/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0976-largest-perimeter-triangle](https://github.com/SaheliBain/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaheliBain/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaheliBain/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SaheliBain/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaheliBain/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/SaheliBain/leetcode/tree/master/0645-set-mismatch) |
+| [0976-largest-perimeter-triangle](https://github.com/SaheliBain/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaheliBain/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SaheliBain/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/SaheliBain/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/SaheliBain/leetcode/tree/master/0412-fizz-buzz) |
+| [0976-largest-perimeter-triangle](https://github.com/SaheliBain/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SaheliBain/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaheliBain/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SaheliBain/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SaheliBain/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0976-largest-perimeter-triangle](https://github.com/SaheliBain/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,8 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SaheliBain/leetcode/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/SaheliBain/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SaheliBain/leetcode/tree/master/0075-sort-colors) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/SaheliBain/leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
