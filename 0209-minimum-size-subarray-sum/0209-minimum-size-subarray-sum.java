@@ -16,10 +16,6 @@ class Solution {
             }
             high++;
         }
-        if(res==Integer.MAX_VALUE)
-        {
-            return 0;
-        }
-        return res;
+        return res == Integer.MAX_VALUE ? 0 : res;
     }
 }
