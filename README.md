@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaheliBain/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/SaheliBain/leetcode/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaheliBain/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/SaheliBain/leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SaheliBain/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/SaheliBain/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SaheliBain/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaheliBain/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SaheliBain/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/SaheliBain/leetcode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SaheliBain/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaheliBain/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/SaheliBain/leetcode/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/SaheliBain/leetcode/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -112,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SaheliBain/leetcode/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/SaheliBain/leetcode/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/SaheliBain/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SaheliBain/leetcode/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/SaheliBain/leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/SaheliBain/leetcode/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
