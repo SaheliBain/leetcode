@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SaheliBain/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SaheliBain/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SaheliBain/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2169-count-operations-to-obtain-zero](https://github.com/SaheliBain/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SaheliBain/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/SaheliBain/leetcode/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/SaheliBain/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SaheliBain/leetcode/tree/master/1929-concatenation-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/SaheliBain/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Matrix
 |  |
 | ------- |
