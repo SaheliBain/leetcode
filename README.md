@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SaheliBain/leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/SaheliBain/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaheliBain/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SaheliBain/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SaheliBain/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SaheliBain/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SaheliBain/leetcode/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SaheliBain/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SaheliBain/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaheliBain/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SaheliBain/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SaheliBain/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SaheliBain/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SaheliBain/leetcode/tree/master/0344-reverse-string) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SaheliBain/leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/SaheliBain/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SaheliBain/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/SaheliBain/leetcode/tree/master/0412-fizz-buzz) |
 | [0976-largest-perimeter-triangle](https://github.com/SaheliBain/leetcode/tree/master/0976-largest-perimeter-triangle) |
