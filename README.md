@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SaheliBain/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SaheliBain/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/SaheliBain/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaheliBain/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SaheliBain/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/SaheliBain/leetcode/tree/master/0832-flipping-an-image) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SaheliBain/leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/SaheliBain/leetcode/tree/master/0412-fizz-buzz) |
 ## Counting Sort
 |  |
