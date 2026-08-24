@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SaheliBain/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaheliBain/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SaheliBain/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/SaheliBain/leetcode/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/SaheliBain/leetcode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SaheliBain/leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/SaheliBain/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/SaheliBain/leetcode/tree/master/0412-fizz-buzz) |
 ## Counting Sort
 |  |
