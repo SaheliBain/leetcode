@@ -8,12 +8,8 @@ class Solution {
             if(g[l]<=s[r] )
             {
                 l++;
-                r++;
             }
-            else
-            {
                 r++;
-            }
         }
         return l;
     }
