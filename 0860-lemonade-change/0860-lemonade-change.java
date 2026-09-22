@@ -1,6 +1,6 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-int five = 0;
+     int five = 0;
         int ten = 0;
 
         for (int bill : bills) {
@@ -26,8 +26,8 @@ int five = 0;
                     return false;
                 }
             }
+        
         }
-
         return true;
     }
 }
