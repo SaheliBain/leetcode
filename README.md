@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SaheliBain/leetcode/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/SaheliBain/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/SaheliBain/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/SaheliBain/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/SaheliBain/leetcode/tree/master/0162-find-peak-element) |
@@ -130,10 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SaheliBain/leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/SaheliBain/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SaheliBain/leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/SaheliBain/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/SaheliBain/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/SaheliBain/leetcode/tree/master/0860-lemonade-change) |
