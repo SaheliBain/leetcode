@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/SaheliBain/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/SaheliBain/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/SaheliBain/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/SaheliBain/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SaheliBain/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaheliBain/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaheliBain/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SaheliBain/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SaheliBain/leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/SaheliBain/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/SaheliBain/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/SaheliBain/leetcode/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/SaheliBain/leetcode/tree/master/1903-largest-odd-number-in-string) |
