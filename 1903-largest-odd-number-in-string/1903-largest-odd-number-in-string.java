@@ -10,6 +10,8 @@ class Solution {
             }else
                 break;
         }
+    
+
         int j=0;
         while(j<num.length())
         {
