@@ -6,7 +6,7 @@ class Solution {
             int digit=num.charAt(i);
             if(digit%2==0){
                  i--;
-                 continue;
+                 
             }else
                 break;
         }
