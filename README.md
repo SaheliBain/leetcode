@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/SaheliBain/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SaheliBain/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaheliBain/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3708-longest-fibonacci-subarray](https://github.com/SaheliBain/leetcode/tree/master/3708-longest-fibonacci-subarray) |
 ## Two Pointers
 |  |
 | ------- |
