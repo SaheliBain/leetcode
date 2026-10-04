@@ -19,19 +19,19 @@ class Solution {
         if(root==null) return 0;
         int lheight=maxheight(root.left);
         int rheight=maxheight(root.right);
+        if(Math.abs(lheight-rheight)>1)
+            return -1;
+        //checking child
+        if(lheight==-1 || rheight==-1)
+            return -1;
         return 1+Math.max(lheight,rheight);
     }
     public boolean isBalanced(TreeNode root) {
         if(root==null) return true;
-        int leftH=maxheight(root.left);
-        int rightH=maxheight(root.right);
-
-        if(Math.abs(leftH-rightH)>1) 
+        int height=maxheight(root);
+        if(height==-1)
             return false;
-        boolean left=isBalanced(root.left);
-        boolean right=isBalanced(root.right);
-        if(left && right) return true;
-        return false;
+        return true;
         
     }
 }
