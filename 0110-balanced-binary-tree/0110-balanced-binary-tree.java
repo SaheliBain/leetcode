@@ -26,9 +26,11 @@ class Solution {
         int leftH=maxheight(root.left);
         int rightH=maxheight(root.right);
 
+        if(Math.abs(leftH-rightH)>1) 
+            return false;
         boolean left=isBalanced(root.left);
         boolean right=isBalanced(root.right);
-        if(Math.abs(leftH-rightH)<=1 && left && right) return true;
+        if(left && right) return true;
         return false;
         
     }
