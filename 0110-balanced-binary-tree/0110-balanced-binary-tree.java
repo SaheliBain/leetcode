@@ -28,10 +28,7 @@ class Solution {
     }
     public boolean isBalanced(TreeNode root) {
         if(root==null) return true;
-        int height=maxheight(root);
-        if(height==-1)
-            return false;
-        return true;
+        return maxheight(root)!=-1;
         
     }
 }
