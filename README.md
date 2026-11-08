@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SaheliBain/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/SaheliBain/leetcode/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/SaheliBain/leetcode/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/SaheliBain/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaheliBain/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SaheliBain/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -312,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaheliBain/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SaheliBain/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SaheliBain/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
