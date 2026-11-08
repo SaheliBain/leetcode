@@ -26,6 +26,6 @@ class Solution {
             j--;
             k--;
         }
-        System.out.println(Arrays.toString(num1));
+        
     }
 }
