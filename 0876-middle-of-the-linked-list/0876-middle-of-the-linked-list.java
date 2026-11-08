@@ -23,7 +23,7 @@ class Solution {
     }
 
     // Helper method to print the list from the given node to the end
-    public static void printList(ListNode node) {
+    /*public static void printList(ListNode node) {
         System.out.print("[");
         while (node != null) {
             System.out.print(node.val);
@@ -33,5 +33,5 @@ class Solution {
             node = node.next;
         }
         System.out.println("]");
-    }
+    }*/
 }
