@@ -11,15 +11,11 @@ class Solution {
         {
             if(freq.get(ch)%2==0)
                 count+=freq.get(ch);
-            else
+            else{
                 odd=true;
-        }
-        if(odd==false) return count;
-        for(char ch:freq.keySet())
-        {
-            if(freq.get(ch)%2==1)
                 count+=freq.get(ch)-1;
+            }
         }
-        return count+1;
+        return (odd)?count+1:count;
     }
 }
