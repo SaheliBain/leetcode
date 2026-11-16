@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaheliBain/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SaheliBain/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/SaheliBain/leetcode/tree/master/0645-set-mismatch) |
+| [1189-maximum-number-of-balloons](https://github.com/SaheliBain/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaheliBain/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SaheliBain/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/SaheliBain/leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/SaheliBain/leetcode/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/SaheliBain/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SaheliBain/leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1903-largest-odd-number-in-string](https://github.com/SaheliBain/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Counting Sort
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SaheliBain/leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/SaheliBain/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaheliBain/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/SaheliBain/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaheliBain/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quicksort
 |  |
