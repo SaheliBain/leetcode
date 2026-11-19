@@ -6,7 +6,7 @@ class Solution {
             return false;
         
         return isPowerOfTwo(n/2);
-        
+    */
        if (n <= 0)
         return false;
 
@@ -19,7 +19,6 @@ class Solution {
         n/=2;
         }
         return false;
-        */
-        return n > 0 && (n & (n - 1)) == 0;
+       
     }
 }
